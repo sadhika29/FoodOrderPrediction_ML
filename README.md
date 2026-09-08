@@ -1,6 +1,6 @@
 ## Google Colab
 
-[Open the complete project in Google Colab](https://colab.research.google.com/github/sadhika29/FoodOrderPrediction_ML/blob/main/Food-Order-Prediction_ML-main/Food_Order_Prediction_Complete_Colab.ipynb)
+[Open the Complete Project in Google Colab](https://colab.research.google.com/github/sadhika29/FoodOrderPrediction_ML/blob/main/Food_Order_Prediction_Complete_Colab.ipynb)
 
 # Food Order Prediction using Machine Learning
 
